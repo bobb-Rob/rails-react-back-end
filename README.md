@@ -2,8 +2,10 @@
 
 # Hello Rails band-end-api-only
 
-> This project is amied at setting up two separate applications communicating via endpoints. 
+> This project is aimed at setting up two separate applications communicating via API endpoints. 
 
+## React Front end App
+> [Front-end app](https://github.com/bobb-Rob/hello-react-front-end)
 
 ## Built With
 
@@ -39,6 +41,8 @@
 `rake db:create`
 
 `rake db:migrate`
+
+`rake db:seed`
 
 
 - To make the tailwindcss works run the below command:
